@@ -1,0 +1,27 @@
+{
+  "name": "akyuu-body-parser",
+  "version": "1.0.0",
+  "description": "Body parser plugin for Akyuu.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akyuujs/akyuu-body-parser.git"
+  },
+  "keywords": [
+    "akyuu",
+    "body"
+  ],
+  "author": "XadillaX <i@2333.moe>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akyuujs/akyuu-body-parser/issues"
+  },
+  "homepage": "https://github.com/akyuujs/akyuu-body-parser#readme",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "config.util": "^1.20.2-1"
+  }
+}
